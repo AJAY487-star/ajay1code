@@ -1,5 +1,5 @@
 #!/bin/bash
  
-apt install -y apache2
+apt install apache2 -y
 
 rm /var/www/html/index.html
